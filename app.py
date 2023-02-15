@@ -615,3 +615,4 @@ elif index == 'CONCLUSIONES':
     st.markdown('- **Los países con mayores niveles de libertad económica también tienden a tener mayores niveles de bienestar social. Esto se debe a que la libertad económica fomenta la creación de empleo y la reducción de la pobreza, lo que a su vez mejora la calidad de vida de la población.**')
 
 
+#----------------------------------------------------------------------------------------------------------------END------------------------------------------------------------------------------
