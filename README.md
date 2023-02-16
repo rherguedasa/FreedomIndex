@@ -16,3 +16,4 @@ In this project, we have analyzed the most important macroeconomic variables sho
 - streamlit==1.16.0
 - Pillow==9.3.0
 - geopy==2.3.0
+- googletrans==4.0.0-rc1
