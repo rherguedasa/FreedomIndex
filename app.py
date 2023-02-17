@@ -54,7 +54,7 @@ values = pd.read_excel('index2022.xls')
 
 
 st.set_page_config(page_title='ÍNDICE DE LIBERTAD ECONÓMICA', layout='wide' , page_icon="", initial_sidebar_state="expanded",)
-st.title('INDICE DE LIBERTAD ECONÓMICA')
+st.title('ÍNDICE DE LIBERTAD ECONÓMICA')
 st.header('ANÁLISIS EXPLORATORIO Y MODELO PREDICTIVO')
 
 # establecemos la imagen de fondo de la app
